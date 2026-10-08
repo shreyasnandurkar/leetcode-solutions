@@ -1,4 +1,4 @@
-#1021. Remove Outermost Parentheses
+# 1021. Remove Outermost Parentheses
 
 ## Intuition
 
